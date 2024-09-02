@@ -1,0 +1,9 @@
+Put http://localhost:8080/events/3
+content-type: application/json
+
+{
+    "name": "event test updated",
+    "description": "event test descriptoin updated",
+    "location": "Mansoura, EGYPT",
+    "dateTime":"2024-11-05T00:00:00Z"
+}
